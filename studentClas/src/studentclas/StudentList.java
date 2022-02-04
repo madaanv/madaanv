@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Vinayak Madaan
+ * @author Vinayak
  */
 public class StudentList {
     public static void main(String[] args) {
