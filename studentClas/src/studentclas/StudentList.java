@@ -8,7 +8,8 @@ import java.util.Scanner;
 
 /**
  *
- * @author Vinu
+ * @author Vinayak
+ * Author name changed to vinayak
  */
 public class StudentList {
     public static void main(String[] args) {
