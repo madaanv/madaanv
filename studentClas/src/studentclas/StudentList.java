@@ -5,11 +5,13 @@
 package studentclas;
 
 import java.util.Scanner;
+/*
+I'm Done
+*/
 
 /**
  *
  * @author Vinayak
- * Author name changed to vinayak
  */
 public class StudentList {
     public static void main(String[] args) {
